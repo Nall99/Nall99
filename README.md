@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Allan+Victor;Python Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%038C3E&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Allan+Victor;Python Developer" width="auto" height="35"/>
 </p>
 
 <h3 align="center">Meus interesses</h3>
