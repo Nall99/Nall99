@@ -1,6 +1,4 @@
-<p align="center">
-  <h2>Bem vindo ao meu Perfil</h2>
-</p>
+<h1 align="center">Bem vindo ao meu Perfil</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Doto&color=%038C3E&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Allan+Victor;Python Developer" width="auto" height="35"/>
 </p>
