@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me chamo Allan Victor<br><br>- 🔭 Trabalho com Spring Boot, Postaman e PostgreSQL<br>- 📚 Atualmente estou aprendendo Angular<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
+<p align="left">Me chamo Allan Victor<br><br>- 📚 Atualmente estou aprendendo Angular<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
 
 ###
 
