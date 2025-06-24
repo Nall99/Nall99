@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me chamo Allan Victor<br><br>- 📚 Atualmente estou aprendendo Angular<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
+<p align="left">Me chamo Allan Victor<br><br>- 📚 Atualmente estou aprendendo análise de dados<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
 
 ###
 
@@ -63,7 +63,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nall99&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D&order=3" height="222" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nall99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nall99&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
