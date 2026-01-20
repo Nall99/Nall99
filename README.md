@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me chamo Allan Victor<br><br>- 📚 Atualmente estou aprendendo análise de dados<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
+<p align="left">Me chamo Allan Victor<br><br>- 📚 Atualmente estou aprendendo SpringBoot<br>- 🐍 Tenho bastante experiência em Python<br>- ⚡ No meu tempo livre desenvolvo jogos</p>
 
 ###
 
